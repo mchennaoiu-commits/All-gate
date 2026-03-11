@@ -1275,4 +1275,4 @@ while True:
 		bot.polling(none_stop=True)
 	except Exception as e:
 		print("ERORR")
-#bot.polling()
+#bot.infinity_polling()
